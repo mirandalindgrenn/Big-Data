@@ -1,0 +1,1 @@
+nextflow main.nf -profile uppmax --project "uppmax2026-1-94" --peakwidthLow 3 --peakwidthHigh 15 --noise 500 --polarity positive -resume
